@@ -1,8 +1,6 @@
 #LeetCode in JavaScript
-=============
 
-#List
-
+#List  
 **\#292 Nim Game**
 
 #Details
