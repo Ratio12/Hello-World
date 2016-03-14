@@ -1,10 +1,19 @@
 #LeetCode in JavaScript
 
 #List  
+**\#258 Add Digits**  
 **\#292 Nim Game**  
 
 
-#Details
+#Detail  
+**#258 Add Digits#**  
+LeetCode Link: https://leetcode.com/problems/add-digits/  
+Detail:  
+Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.  
+
+For example:  
+Given num = 38, the process is like: 3 + 8 = 11, 1 + 1 = 2. Since 2 has only one digit, return it.  
+
 **#292 Nim Game#**  
 LeetCode Link: https://leetcode.com/problems/nim-game/  
 Detail:  
