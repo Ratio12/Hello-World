@@ -4,7 +4,6 @@
 **\#292 Nim Game**
 
 #Details
-=============
 **#292 Nim Game#**  
 LeetCode Link: https://leetcode.com/problems/nim-game/  
 Detail:  
