@@ -27,10 +27,7 @@ For example
 Given:  
 beginWord = "hit" endWord = "cog" wordList = ["hot","dot","dog","lot","log"]  
 Return  
-  [  
-    ["hit","hot","dot","dog","cog"],  
-    ["hit","hot","lot","log","cog"]  
-  ]  
+[ ["hit","hot","dot","dog","cog"],["hit","hot","lot","log","cog"] ]  
 
 Note:  
 All words have the same length.  
