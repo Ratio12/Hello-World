@@ -25,9 +25,7 @@ Each intermediate word must exist in the word list
 
 For example  
 Given:  
-beginWord = "hit"  
-endWord = "cog"  
-wordList = ["hot","dot","dog","lot","log"]  
+beginWord = "hit" endWord = "cog" wordList = ["hot","dot","dog","lot","log"]  
 Return  
   [  
     ["hit","hot","dot","dog","cog"],  
