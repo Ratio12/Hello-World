@@ -1,11 +1,18 @@
 #LeetCode in JavaScript
 
 #List  
+**\#104 Maximum Depth of Binary Tree** 
 **\#258 Add Digits**  
 **\#292 Nim Game**  
 
 
 #Detail  
+**\#104 Maximum Depth of Binary Tree**  
+LeetCode Link: https://leetcode.com/problems/maximum-depth-of-binary-tree/  
+Detail:  
+Given a binary tree, find its maximum depth.
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.  
+
 **#258 Add Digits#**  
 LeetCode Link: https://leetcode.com/problems/add-digits/  
 Detail:  
