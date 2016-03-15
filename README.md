@@ -1,7 +1,7 @@
 #LeetCode in JavaScript
 
 #List  
-**\#104 Maximum Depth of Binary Tree** 
+**\#104 Maximum Depth of Binary Tree**  
 **\#258 Add Digits**  
 **\#292 Nim Game**  
 
